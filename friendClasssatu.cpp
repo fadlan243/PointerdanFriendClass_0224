@@ -45,4 +45,4 @@ int main()
     joko_siswa.setId(1);
     joko_siswa.displayAll(joko);
     return 0;
-}
+}    
